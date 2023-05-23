@@ -1,4 +1,4 @@
-# theme_provider
+# Counter_provider
 
 A new Flutter project.
 
